@@ -1,6 +1,6 @@
 ![](./src/header_.png)
 <p align="center">
-  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Victor;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Sedolg;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/100313099?s=200&v=4" alt="aptos" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_nft.png" alt="nft" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_defi.png" alt="defi" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_bitcoin.png" alt="bitcoin" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></td>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></td>
+    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_nft.png" alt="nft" width="40" height="40"/></td>
+    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_defi.png" alt="defi" width="40" height="40"/></td>
+    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_bitcoin.png" alt="bitcoin" width="40" height="40"/></td>
+    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></td>
+    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></td>
@@ -53,13 +53,13 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sunmoon11100&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sedolg&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
- sunmoon11100 | sunmoon11100
+ Sedolg | Sedolg
 --- | --- 
-![github stats](https://github-readme-stats.vercel.app/api?username=sunmoon11100&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8)
+![github stats](https://github-readme-stats.vercel.app/api?username=Sedolg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sedolg&theme=github_dark&layout=compact&langs_count=8)
 
 </div>
 
@@ -71,20 +71,20 @@
 ## 📫 How to Reach me:
 <p align="left">
   <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="blank"><img src="https://img.shields.io/badge/skype-%23181717.svg?style=plastic&logo=skype&logoColor=white" alt="Skype"/></a>
-  <a href="https://t.me/sunmoon11100" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="sunmoon11100:@gmail.com"><img src="https://img.shields.io/badge/gmail-%23181717.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/sunmoon11100"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://t.me/Sedolg" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="Sedolg:@gmail.com"><img src="https://img.shields.io/badge/gmail-%23181717.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Sedolg"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <br/>
 
 ## Git profile Trophies
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunmoon11100&theme=onedark&column=7&no-bg=true" alt="trophy" width="800px"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sedolg&theme=onedark&column=7&no-bg=true" alt="trophy" width="800px"/></a> 
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/sunmoon11100" alt="Profile views"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sunmoon11100.sunmoon11100" alt="visitors"/>
+  <img src="https://gpvc.arturio.dev/Sedolg" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sedolg.Sedolg" alt="visitors"/>
 </p>
 
 ### DeFi Experiences
@@ -100,17 +100,17 @@
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/PotatoPowerClub.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/PotatoPowerClub.png?raw=true" width="300">
             </a>
         </td>
         <td>
             <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/CryptoPig.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/CryptoPig.png?raw=true" width="300">
             </a>
         </td> 
         <td>
             <a href="https://funkifoxes.com/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="300">
             </a>
         </td>               
     </tr>
@@ -124,17 +124,17 @@
     <tr>
         <td>
             <a href="https://www.piracypunks.com/" target="_blank">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/PiracyPunks.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/PiracyPunks.png?raw=true" width="300">
             </a>
         </td>
         <td>
             <a href="https://helldemon.cryptoliveton.com/" target="_blank">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/HellDemon.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/HellDemon.png?raw=true" width="300">
             </a>
         </td>
         <td>
             <a href="https://theragnarregiment.com/" target="_blank">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/Ragnarregiment.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/Ragnarregiment.png?raw=true" width="300">
             </a>
         </td>                       
     </tr>   
@@ -153,22 +153,22 @@
     <tr>
         <td>
             <a href="https://nft.audioburst.io/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/Audioburst.png?raw=true" width="200">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/Audioburst.png?raw=true" width="200">
             </a>
         </td>        
         <td>
             <a href="https://latitud.art/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/latitud.png?raw=true" width="200">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/latitud.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://lunachownft.com/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://qubismmarketplace.org/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/qubismmarketplace.png?raw=true" width="200">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/qubismmarketplace.png?raw=true" width="200">
             </a>
         </td>     
     </tr>
@@ -187,22 +187,22 @@
     <tr>
         <td>
             <a href="https://liquidswap.com/#/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LiquidSwap.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/LiquidSwap.png?raw=true" width="300">
             </a>
         </td>   
         <td>
             <a href="https://app.luchowswap.com/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/LuchowSwap.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/LuchowSwap.png?raw=true" width="300">
             </a>
         </td>  
         <td>
             <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/cosmicswap.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/cosmicswap.png?raw=true" width="300">
             </a>
         </td>          
         <td>
             <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/sunmoon11100/profile/blob/main/projects/maticswap.png?raw=true" width="300">
+                <img src="https://github.com/Sedolg/profile/blob/main/projects/maticswap.png?raw=true" width="300">
             </a>
         </td> 
     </tr>  
