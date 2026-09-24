@@ -1,224 +1,86 @@
-![](./src/header_.png)
 <p align="center">
-  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Sedolg;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Argela;+Welcome+to+My+GitHub+Profile!;Full%20Stack%20Developer;BlockChain%20Developer;Penetration+tester;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
-<h3 align="left">Programming Languages</h3>
-<table>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/89158114?s=200&v=4" alt="move" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></td>
-  </tr>  
-</table>
-  
-<h3 align="left">Technologies</h3>
-<table>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/100313099?s=200&v=4" alt="aptos" width="40" height="40"/></td>
-    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_nft.png" alt="nft" width="40" height="40"/></td>
-    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_defi.png" alt="defi" width="40" height="40"/></td>
-    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_bitcoin.png" alt="bitcoin" width="40" height="40"/></td>
-    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></td>
-    <td><img src="https://github.com/Sedolg/profile/blob/main/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" alt="yii" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
-  </tr>  
-</table>
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
-<h3 align="left">Operating Systems</h3>
-<table>
-  <tr>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="inux" width="40" height="40"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></td>
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/></td>
-  </tr>  
-</table>
+That's why I like to make things that make a difference.
 
-<!--   GitHub stats graph -->
-<h1 align="center">📈 GitHub Activity Graph: 📊</h1>
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sedolg&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
+### Talking about Personal Stuff:
 
- Sedolg | Sedolg
---- | --- 
-![github stats](https://github-readme-stats.vercel.app/api?username=Sedolg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sedolg&theme=github_dark&layout=compact&langs_count=8)
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kroim&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
-</p>
-
-<a target="_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-## 📫 How to Reach me:
-<p align="left">
-  <a href="https://join.skype.com/invite/BovXFoNcdbyy" target="blank"><img src="https://img.shields.io/badge/skype-%23181717.svg?style=plastic&logo=skype&logoColor=white" alt="Skype"/></a>
-  <a href="https://t.me/Sedolg" target="blank"><img src="https://img.shields.io/badge/telegram-%23181717.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="Sedolg:@gmail.com"><img src="https://img.shields.io/badge/gmail-%23181717.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Sedolg"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-<br/>
-
-## Git profile Trophies
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sedolg&theme=onedark&column=7&no-bg=true" alt="trophy" width="800px"/></a> 
-</p>
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/Sedolg" alt="Profile views"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sedolg.Sedolg" alt="visitors"/>
-</p>
-
-### DeFi Experiences
-- NFT Mint Dapps
-<table>
-    <thead align="center">
-        <tr>
-            <td>PotatoPowerClue</td>
-            <td>CryptoPigs</td>           
-            <td>FunkiFoxes</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/PotatoPowerClub.png?raw=true" width="300">
-            </a>
-        </td>
-        <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/CryptoPig.png?raw=true" width="300">
-            </a>
-        </td> 
-        <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/FunkiFoxes.png?raw=true" width="300">
-            </a>
-        </td>               
-    </tr>
-    <thead align="center">
-        <tr style="display: flex">
-            <td>PiracyPunks</td>
-            <td>HellDemon</td>
-            <td>Ragnarregiment</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://www.piracypunks.com/" target="_blank">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/PiracyPunks.png?raw=true" width="300">
-            </a>
-        </td>
-        <td>
-            <a href="https://helldemon.cryptoliveton.com/" target="_blank">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/HellDemon.png?raw=true" width="300">
-            </a>
-        </td>
-        <td>
-            <a href="https://theragnarregiment.com/" target="_blank">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/Ragnarregiment.png?raw=true" width="300">
-            </a>
-        </td>                       
-    </tr>   
-</table>
-
-- NFT Marketplaces
-<table>
-    <thead align="center">
-        <tr>
-            <td>Audioburst</td>
-            <td>Latitude</td>
-            <td>LunaChowNFT</td>
-            <td>QubismMarketplace</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://nft.audioburst.io/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/Audioburst.png?raw=true" width="200">
-            </a>
-        </td>        
-        <td>
-            <a href="https://latitud.art/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/latitud.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://lunachownft.com/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://qubismmarketplace.org/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/qubismmarketplace.png?raw=true" width="200">
-            </a>
-        </td>     
-    </tr>
-</table>
-
-- DEX
-<table>
-    <thead align="center">
-        <tr>
-            <td>LiquidSwap</td>
-            <td>LuchowSwap</td>
-            <td>CosmicSwap</td>
-            <td>MaticSwap</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://liquidswap.com/#/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/LiquidSwap.png?raw=true" width="300">
-            </a>
-        </td>   
-        <td>
-            <a href="https://app.luchowswap.com/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/LuchowSwap.png?raw=true" width="300">
-            </a>
-        </td>  
-        <td>
-            <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/cosmicswap.png?raw=true" width="300">
-            </a>
-        </td>          
-        <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/Sedolg/profile/blob/main/projects/maticswap.png?raw=true" width="300">
-            </a>
-        </td> 
-    </tr>  
-</table>
-
-#### I am an experienced blockchain developer and work on DeFi projects.
-- Liquidswap - the 1st DEX on Aptos
-- Fork of PancakeSwap, GooseDeFi, PantherSwap.
-- Decentralized Exchanges with TradingView.
-- Token Bridge, Block Explorer.
-- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
+- 👨‍🎓 I'm a **Senior Software Engineering Student**
+- 🔭 I’m currently working on JU Query platform
+- 👨‍🏫 I'm the **Community Leader** at Codecademy JU
+- 💬 Ask me about anything, I am happy to help
+- ✍ I'm a **Technical blogger** with 10,000+ user reads
+- 🌱 I'm currently learning:
+  - Data Structures and Algorithms on LeetCode
+  - Tools and technologies from ecosystem
+- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
+- 📬 How to reach me: [moasonpitercj@gmail.com](mailto:moasonpitercj@gmail.com)
+- 📝 [Resume](https://docs.google.com/document/d/1bRoSTYNgopEZ_DC3Q8ULlMaU1IbMOwVn/edit?usp=drive_link&ouid=112082864781808925612&rtpof=true&sd=true).
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it.*
----
 
+## 🛠️ My Favourite tools
 
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-  
+### 👨‍💻 Programming languages
+
+<p>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
